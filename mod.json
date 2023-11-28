@@ -37,14 +37,10 @@
       },
       {
         "tab3": {
-          "layout": 3,
+          "layout": 1,
           "buttontext": "Mods",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
+          "title1": "Mods List",
+          "text1": "Cryo\n\nSolo Farm\n\nTG Stacking\n\nSuper Spyglass\n\nAdmin Panel\n\nKaravan Shop & Missions\n\nAmmobox",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
