@@ -16,19 +16,21 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-          "title1": "Welcome to WBUI2!",
-          "text1": "Dit is een test.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Info</>",
+          "title1": "Welkom!",
+          "title2": "Welcome!",
+          "text1": "Welkom bij GitGud Game Servers. Deze server wordt thuis gehost op een dedicated server. Lees onze regels zodat je niet gebanned wordt. Als je hulp nodig hebt join dan onze discord en maak een ticket aan. Veel Plezier!",
+          "text2": "Welcome to GitGud Game Servers. This server is being host at home on our own dedicated server. Make sure you read out rules so you wont get banned. If you need support then please join our discord and make a ticket. Have fun!",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
+          "buttontext": "Rules",
+          "title1": "Regels",
+          "title2": "Rules",
+          "text1": "",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
