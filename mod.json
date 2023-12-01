@@ -38,7 +38,7 @@
       {
           "tab3": {
           "layout": 1,
-          "buttontext": "Server Info",
+          "buttontext": "Server Settings",
           "title1": "Mods List",
           "text1": "5x Harv/Exp\n\n10x taming\n\nEgghatchspeed 50\n\n100%imprint\n\nMax players tribe=4\n\nTribe Alliance=Disabled\n\nORP Time activation=25min after tribe logout\n\nPress F2 to open Shop",
           "imageurl": ""
