@@ -40,7 +40,7 @@
           "layout": 1,
           "buttontext": "Server Settings",
           "title1": "Mods List",
-          "text1": "5x Harv/Exp\n\n10x taming\n\nEgghatchspeed 50\n\n100%imprint\n\nMax players tribe=4\n\nTribe Alliance=Disabled\n\nORP Time activation=25min after tribe logout\n\nPress F2 to open Shop",
+          "text1": "Max Wild Dino Level=200\n\n5x Harv/Exp\n\n10x taming\n\nEgghatchspeed 50\n\n100%imprint\n\nCrop growth speed=5\n\nMax players tribe=4\n\nTribe Alliance=Disabled\n\nUnlock all engrams\n\nORP Time activation=25min after tribe logout\n\nPress F2 to open Shop",
           "imageurl": ""
         }
       },
