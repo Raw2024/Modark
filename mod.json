@@ -19,8 +19,8 @@
           "buttontext": "<RichColor Color=\"1,0,0,1\">Info</>",
           "title1": "Welkom!",
           "title2": "Welcome!",
-          "text1": "Welkom bij GitGud Game Servers. Deze server wordt thuis gehost op een dedicated server. Lees onze regels zodat je niet gebanned wordt. Als je hulp nodig hebt join dan onze discord en maak een ticket aan. Veel Plezier!",
-          "text2": "Welcome to GitGud Game Servers. This server is being host at home on our own dedicated server. Make sure you read out rules so you wont get banned. If you need support then please join our discord and make a ticket. Have fun!",
+          "text1": "Welkom bij GitGud Game Servers. Deze server wordt thuis gehost op een dedicated server. Lees onze regels zodat je niet gebanned wordt. Als je hulp nodig hebt join dan onze discord en maak een ticket aan. Veel Plezier!\n\nOm de ingameshop te openen druk op F2",
+          "text2": "Welcome to GitGud Game Servers. This server is being host at home on our own dedicated server. Make sure you read out rules so you wont get banned. If you need support then please join our discord and make a ticket. Have fun!\n\nTo open the ingameshop press F2",
           "imageurl": "https://i.imgur.com/LU4aIF7.png"
         }
       },
@@ -40,7 +40,7 @@
           "layout": 1,
           "buttontext": "Mods",
           "title1": "Mods List",
-          "text1": "Cryo\n\nSolo Farm\n\nTG Stacking\n\nSuper Spyglass\n\nAdmin Panel\n\nAmmobox\n\nNanoh Reusable\n\nAutoDoors\n\nWbui2",
+          "text1": "Cryo\n\nSolo Farm\n\nTG Stacking\n\nSuper Spyglass\n\nAdmin Panel\n\nAmmobox\n\nNanoh Reusable\n\nAutoDoors\n\nWbui2\n\nAutomaticark",
           "imageurl": ""
         }
       }
