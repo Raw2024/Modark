@@ -7,7 +7,7 @@
         "IconURL": "https://i.imgur.com/ISHnLEW.png",
         "DisableIconText": false,
         "IconPosition": 0,
-        "IconTextColor": 0,
+        "IconTextColor": 1,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
