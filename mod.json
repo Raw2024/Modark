@@ -19,8 +19,8 @@
           "buttontext": "<RichColor Color=\"1,0,0,1\">Info</>",
           "title1": "Welkom!",
           "title2": "Welcome!",
-          "text1": "Welkom bij GitGud Game Servers. Deze server wordt thuis gehost op een dedicated server. Lees onze regels zodat je niet gebanned wordt. Als je hulp nodig hebt join dan onze discord en maak een ticket aan. Veel Plezier!\n\nOm de ingameshop te openen druk op F2",
-          "text2": "Welcome to GitGud Game Servers. This server is being host at home on our own dedicated server. Make sure you read out rules so you wont get banned. If you need support then please join our discord and make a ticket. Have fun!\n\nTo open the ingameshop press F2",
+          "text1": "Welkom bij GitGud Game Servers. Deze server wordt thuis gehost op een dedicated server. Lees onze regels zodat je niet gebanned wordt. Als je hulp nodig hebt join dan onze discord en maak een ticket aan. Veel Plezier!",
+          "text2": "Welcome to GitGud Game Servers. This server is being host at home on our own dedicated server. Make sure you read out rules so you wont get banned. If you need support then please join our discord and make a ticket. Have fun!",
           "imageurl": "https://i.imgur.com/LU4aIF7.png"
         }
       },
@@ -40,7 +40,7 @@
           "layout": 1,
           "buttontext": "Server Settings",
           "title1": "Settings",
-          "text1": "Max Wild Dino Level=210\n\n5x Harv/Exp\n\n10x taming\n\nEgghatchspeed 50\n\n100%imprint\n\nCrop growth speed=5\n\nMax players tribe=4\n\nTribe Alliance=Disabled\n\nUnlock all engrams\n\nORP Time activation=25min after tribe logout\n\nPress F2 to open Shop",
+          "text1": "Max Wild Dino Level=210\n\n5x Harv/Exp\n\n10x taming\n\nEgghatchspeed 50\n\n100%imprint\n\nCrop growth speed=5\n\nMax players tribe=4\n\nTribe Alliance=Disabled\n\nUnlock all engrams\n\nORP Time activation=25min after tribe logout\n\nPress F2 to open Shop\n\n On controller: left shoulder button + Left thumbstick to open",
           "imageurl": ""
         }
       },
